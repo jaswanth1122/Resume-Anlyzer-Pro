@@ -236,7 +236,8 @@ st.markdown("---")
 st.markdown("""
 <p style='text-align: center;'>
   Powered by Google Gemini AI • 
-  <a href="#" target="_blank">GitHub</a> • 
+  Developed By
+  <a href="https://www.linkedin.com/in/jaswanthvalluri11/" target="_blank">Jaswanth Valluri</a> • 
   Made with Streamlit
 </p>
 """, unsafe_allow_html=True)
