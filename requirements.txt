@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+google-generativeai
+pdf2image
+pytesseract
+pdfplumber
+langdetect
+googletrans==4.0.0-rc1
+fpdf2
+python-docx
+pillow
